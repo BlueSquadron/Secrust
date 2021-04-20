@@ -1,0 +1,14 @@
+[package]
+name = "Secrust"
+description ="Rewrite of the Simple Event Correlator <https://github.com/simple-evcorr/sec> in Rust"
+version = "0.1.0"
+authors = ["Batard Florent <florent.batard@gmail.com>"]
+edition = "2018"
+license = "MIT"
+homepage = "https://github.com/BlueSquadron/Secrust"
+repository = "https://github.com/BlueSquadron/Secrust"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
